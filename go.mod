@@ -1,6 +1,6 @@
-module httpexpect
+module github.com/brucejrc/httpexpect
 
-go 1.20
+go 1.21.4
 
 require (
 	github.com/ajg/form v1.5.1
